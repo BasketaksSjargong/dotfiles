@@ -11,5 +11,13 @@ Customization for Arch Linux. Details inside. (Work in Progress)
 * Text Editor: Vim
 * Web Browser: Chromium
 
+## Window Manager
 
+## Shell
+
+## Terminal Emulator
+
+## Text Editor
+
+## Web Browser
 
