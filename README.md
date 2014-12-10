@@ -9,6 +9,7 @@ Customization for Arch Linux. Details inside. (Work in Progress)
 * Shell: zsh
 * Terminal emulator: Terminator
 * Text Editor: Vim
+* PDF-reader: Zathura
 * Web Browser: Chromium
 
 ## Window Manager
@@ -21,8 +22,13 @@ We're giving zsh a go. We're using oh-my-zsh for the initial set-up. Any further
 are individual.
 
 ## Terminal Emulator
+Terminator
 
 ## Text Editor
+Vim
 
 ## Web Browser
+Chromium
 
+## PDF-Reader
+Zathura
