@@ -32,8 +32,10 @@ if exists(':Plugin')
   Plugin 'Valloric/YouCompleteMe'
   " NERDTree - Vim File Browser Plugin
   Plugin 'scrooloose/nerdtree'
-  " Base16 - Color Sceheme
+  " Base16 - Color Scheme
   Plugin 'chriskempson/base16-vim'
+  " Molokai - Color Scheme
+  Plugin 'tomasr/molokai'
   call vundle#end()
   filetype plugin indent on
 endif
@@ -82,10 +84,10 @@ set sidescroll=1
 set display+=lastline " show the last line that fits in window
 
 " Setting color-scheme
-set t_Co=256
-" colorscheme molokai 
-colorscheme base16-default
-let g:rehash256 = 1
+" let base16colorspace=256
+" colorscheme base16-default
+let g:rehash256=1
+colorscheme molokai 
 
 " Swap-file management 
 " Save them to external directory
