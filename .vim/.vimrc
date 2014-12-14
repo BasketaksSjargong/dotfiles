@@ -187,3 +187,5 @@ set iskeyword+=:
 autocmd StdinReadPre * let s:std_in=1
 autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
+" YouCompleteMe
+let g:ycm_path_to_python_interpreter = '/usr/bin/python2'

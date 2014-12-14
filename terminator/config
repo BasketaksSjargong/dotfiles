@@ -2,15 +2,15 @@
 [keybindings]
 [profiles]
   [[default]]
-    palette = "#121212:#7325FA:#23E298:#60D4DF:#D08010:#FF0087:#D0A843:#BBBBBB:#555555:#9D66F6:#5FE0B1:#6DF2FF:#FFAF00:#FF87AF:#FFCE51:#FFFFFF"
-    background_color = "#121212"
-    cursor_color = "#BBBBBB"
-    foreground_color = "#BBBBBB"
-    background_image = None
     scrollbar_position = hidden
+    palette = "#121212:#7325fa:#23e298:#60d4df:#d08010:#ff0087:#d0a843:#bbbbbb:#555555:#9d66f6:#5fe0b1:#6df2ff:#ffaf00:#ff87af:#ffce51:#ffffff"
     scrollback_lines = 501
-    scrollback_infinite = True
+    background_image = None
+    cursor_color = "#BBBBBB"
+    foreground_color = "#bbbbbb"
     show_titlebar = False
+    background_color = "#121212"
+    scrollback_infinite = True
 [layouts]
   [[default]]
     [[[child1]]]
